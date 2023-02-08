@@ -3,7 +3,7 @@ black==21.9b0
 cbor2==4.0.1
 cffi==1.15.0
 click==8.0.3
-cryptography==3.4.7
+cryptography==39.0.1
 mccabe==0.6.1
 mypy-extensions==0.4.3
 pathspec==0.9.0
